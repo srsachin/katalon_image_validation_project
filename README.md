@@ -1,0 +1,1 @@
+# katalon_image_validation_project
